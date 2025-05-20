@@ -1,0 +1,170 @@
+[
+  {
+    "profile": "Frontend Developer",
+    "desc": "Creative frontend developer with 4 years of experience building responsive web applications using React and Angular. Skilled in HTML5, CSS3, and JavaScript to deliver seamless user experiences.",
+    "exp": 4,
+    "techs": ["javascript", "react", "angular", "html5", "css3", "webpack"]
+  },
+  {
+    "profile": "Data Scientist",
+    "desc": "Data scientist with expertise in statistical modeling and machine learning. Proficient in Python, R, and data visualization tools to extract actionable insights from complex datasets.",
+    "exp": 5,
+    "techs": ["python", "r", "tensorflow", "scikit-learn", "pandas", "matplotlib"]
+  },
+  {
+    "profile": "DevOps Engineer",
+    "desc": "Experienced DevOps engineer specializing in CI/CD pipeline automation and infrastructure as code. Skilled with Docker, Kubernetes, Jenkins, and AWS for scalable deployments.",
+    "exp": 6,
+    "techs": ["docker", "kubernetes", "jenkins", "aws", "terraform", "ansible"]
+  },
+  {
+    "profile": "Mobile App Developer",
+    "desc": "Mobile developer with 3 years of experience in building native Android and iOS applications. Expert in Kotlin, Swift, and cross-platform frameworks like Flutter and React Native.",
+    "exp": 3,
+    "techs": ["kotlin", "swift", "flutter", "react native", "android sdk", "ios sdk"]
+  },
+  {
+    "profile": "QA Automation Engineer",
+    "desc": "QA engineer specializing in automated testing frameworks to ensure software quality. Experienced with Selenium, Cucumber, and TestNG in agile environments.",
+    "exp": 4,
+    "techs": ["selenium", "cucumber", "testng", "java", "jenkins", "postman"]
+  },
+  {
+    "profile": "Cloud Architect",
+    "desc": "Cloud architect with 7 years of experience designing scalable and secure cloud solutions on AWS and Azure. Skilled in infrastructure design, cost optimization, and cloud migration strategies.",
+    "exp": 7,
+    "techs": ["aws", "azure", "terraform", "docker", "kubernetes", "cloudformation"]
+  },
+  {
+    "profile": "Backend Developer",
+    "desc": "Backend developer with expertise in building RESTful APIs and microservices using Node.js and Java. Proficient in database design, caching strategies, and message brokers.",
+    "exp": 5,
+    "techs": ["node.js", "java", "mongodb", "redis", "rabbitmq", "springboot"]
+  },
+  {
+    "profile": "Cybersecurity Analyst",
+    "desc": "Cybersecurity analyst focused on threat detection, vulnerability assessment, and incident response. Experienced with SIEM tools, firewall configurations, and penetration testing.",
+    "exp": 5,
+    "techs": ["wireshark", "nessus", "splunk", "kali linux", "metasploit", "iptables"]
+  },
+  {
+    "profile": "Full Stack Developer",
+    "desc": "Full stack developer proficient in both frontend and backend technologies including React, Node.js, and MongoDB. Experienced in developing scalable and performant web applications.",
+    "exp": 6,
+    "techs": ["react", "node.js", "mongodb", "express", "javascript", "docker"]
+  },
+  {
+    "profile": "Project Manager",
+    "desc": "Certified project manager with 8 years of experience leading cross-functional teams and delivering software projects on time and within budget. Skilled in Agile and Scrum methodologies.",
+    "exp": 8,
+    "techs": ["jira", "confluence", "agile", "scrum", "microsoft project", "kanban"]
+  },
+  {
+    "profile": "Database Administrator",
+    "desc": "Database administrator skilled in managing, tuning, and securing large-scale databases. Experienced with Oracle, MySQL, and PostgreSQL in high-availability environments.",
+    "exp": 6,
+    "techs": ["oracle", "mysql", "postgresql", "backup and recovery", "performance tuning", "replication"]
+  },
+  {
+    "profile": "UX Designer",
+    "desc": "User experience designer with a passion for creating intuitive and engaging interfaces. Skilled in wireframing, prototyping, and user research with tools like Figma and Adobe XD.",
+    "exp": 4,
+    "techs": ["figma", "adobe xd", "sketch", "usability testing", "wireframing", "prototyping"]
+  },
+  {
+    "profile": "System Administrator",
+    "desc": "System administrator with expertise in Linux and Windows server environments. Experienced in network configuration, system monitoring, and automation using shell scripting.",
+    "exp": 5,
+    "techs": ["linux", "windows server", "bash scripting", "nagios", "vmware", "active directory"]
+  },
+  {
+    "profile": "Machine Learning Engineer",
+    "desc": "Machine learning engineer skilled in building and deploying ML models using Python and TensorFlow. Experienced in data preprocessing, model optimization, and cloud-based ML pipelines.",
+    "exp": 4,
+    "techs": ["python", "tensorflow", "scikit-learn", "pandas", "aws sagemaker", "docker"]
+  },
+  {
+    "profile": "Business Intelligence Analyst",
+    "desc": "BI analyst with expertise in data modeling, reporting, and dashboard creation. Skilled in SQL, Power BI, and Tableau to support data-driven decision making.",
+    "exp": 5,
+    "techs": ["sql", "power bi", "tableau", "excel", "data warehousing", "etl"]
+  },
+  {
+    "profile": "Network Engineer",
+    "desc": "Network engineer experienced in designing and managing scalable networks. Skilled with Cisco routers, switches, VPNs, and network security protocols.",
+    "exp": 6,
+    "techs": ["cisco", "vpn", "firewalls", "tcp/ip", "routing protocols", "wireshark"]
+  },
+  {
+    "profile": "Technical Writer",
+    "desc": "Technical writer specializing in software documentation and user manuals. Skilled in creating clear and concise guides using Markdown, LaTeX, and DITA.",
+    "exp": 3,
+    "techs": ["markdown", "latex", "dita", "confluence", "ms office", "git"]
+  },
+  {
+    "profile": "Software Tester",
+    "desc": "Software tester with expertise in manual and exploratory testing. Skilled in writing test cases, bug reporting, and working in Agile development environments.",
+    "exp": 4,
+    "techs": ["jira", "testlink", "manual testing", "bugzilla", "agile", "postman"]
+  },
+  {
+    "profile": "Blockchain Developer",
+    "desc": "Blockchain developer experienced in building decentralized applications using Ethereum and smart contracts. Skilled in Solidity, Web3.js, and cryptographic algorithms.",
+    "exp": 5,
+    "techs": ["solidity", "ethereum", "web3.js", "blockchain", "cryptography", "node.js"]
+  },
+  {
+    "profile": "Robotic Process Automation (RPA) Developer",
+    "desc": "RPA developer specializing in automating business processes using UiPath and Blue Prism. Skilled in workflow design, scripting, and integrating with enterprise systems.",
+    "exp": 3,
+    "techs": ["uipath", "blue prism", "vba", "automation", "workflow", "python"]
+  },
+  {
+    "profile": "Embedded Systems Engineer",
+    "desc": "Embedded systems engineer skilled in C/C++ programming and real-time operating systems. Experienced in developing firmware for IoT devices and automotive systems.",
+    "exp": 6,
+    "techs": ["c", "c++", "rtos", "embedded linux", "iot", "firmware"]
+  },
+  {
+    "profile": "Game Developer",
+    "desc": "Game developer experienced in Unity and Unreal Engine with a passion for creating immersive gameplay experiences. Skilled in C#, C++, and graphics programming.",
+    "exp": 4,
+    "techs": ["unity", "unreal engine", "c#", "c++", "3d modeling", "shader programming"]
+  },
+  {
+    "profile": "Security Engineer",
+    "desc": "Security engineer with expertise in designing and implementing security measures for software and networks. Experienced in threat modeling and vulnerability assessment.",
+    "exp": 5,
+    "techs": ["firewalls", "ids/ips", "penetration testing", "encryption", "python", "wireshark"]
+  },
+  {
+    "profile": "Big Data Engineer",
+    "desc": "Big Data engineer skilled in designing data pipelines and ETL processes using Hadoop, Spark, and Kafka. Experienced in handling large-scale distributed systems.",
+    "exp": 6,
+    "techs": ["hadoop", "spark", "kafka", "scala", "python", "aws emr"]
+  },
+  {
+    "profile": "Site Reliability Engineer (SRE)",
+    "desc": "SRE focused on improving system reliability, monitoring, and incident response. Skilled with Kubernetes, Prometheus, and cloud infrastructure management.",
+    "exp": 5,
+    "techs": ["kubernetes", "prometheus", "grafana", "terraform", "aws", "bash scripting"]
+  },
+  {
+    "profile": "Release Manager",
+    "desc": "Release manager coordinating software delivery, versioning, and deployment schedules across teams. Experienced with Jenkins, Git, and Agile workflows.",
+    "exp": 4,
+    "techs": ["jenkins", "git", "jira", "agile", "docker", "maven"]
+  },
+  {
+    "profile": "Data Engineer",
+    "desc": "Data engineer specializing in building robust data architectures and pipelines using Python, SQL, and cloud technologies. Experienced in optimizing ETL workflows.",
+    "exp": 5,
+    "techs": ["python", "sql", "airflow", "redshift", "spark", "aws"]
+  },
+  {
+    "profile": "Product Owner",
+    "desc": "Product owner experienced in defining product vision and managing backlogs. Skilled in Agile, stakeholder communication, and driving product success.",
+    "exp": 6,
+    "techs": ["jira", "confluence", "agile", "scrum", "kanban", "roadmap planning"]
+  }
+]
