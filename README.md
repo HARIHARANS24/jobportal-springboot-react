@@ -5,7 +5,7 @@ A modern job portal application built with Spring Boot and React, enabling emplo
 ## 🛠️ Tech Stack
 
 ### Backend
-- Java 17
+- Java 17 
 - Spring Boot 
 - Spring Security
 - Spring Data JPA
