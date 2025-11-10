@@ -13,7 +13,7 @@ A modern job portal application built with Spring Boot and React, enabling emplo
 - Maven 
  
 ### Frontend
-- React.js
+- React.js 
 - Redux
 - Material-UI
 - Axios
