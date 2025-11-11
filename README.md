@@ -9,7 +9,7 @@ A modern job portal application built with Spring Boot and React, enabling emplo
 - Spring Boot 
 - Spring Security 
 - Spring Data JPA
-- MySQL  
+- MySQL   
 - Maven 
   
 ### Frontend 
