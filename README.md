@@ -8,7 +8,7 @@ A modern job portal application built with Spring Boot and React, enabling emplo
 - Java 17  
 - Spring Boot 
 - Spring Security 
-- Spring Data JPA
+- Spring Data JPA 
 - MySQL   
 - Maven 
   
