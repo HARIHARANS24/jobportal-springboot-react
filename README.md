@@ -22,61 +22,71 @@ A modern job portal application built with Spring Boot and React, enabling emplo
 ## 📁 Project Structure
 
 ```
-📦 jobportal-springboot-react
-├── 📂 frontend
-│   ├── 📂 public
-│   │   ├── 📄 index.html
-│   │   ├── 📄 favicon.ico
-│   │   ├── 📄 manifest.json
-│   │   ├── 📄 robots.txt
-│   │   ├── 📄 logo192.png
-│   │   └── 📄 logo512.png
-│   ├── 📂 src
-│   │   ├── 📂 pages
-│   │   │   ├── 📄 AboutUs.jsx
-│   │   │   ├── 📄 Contact.jsx
-│   │   │   ├── 📄 Create.jsx
-│   │   │   ├── 📄 Dashboard.jsx
-│   │   │   ├── 📄 Feed.jsx
-│   │   │   ├── 📄 Home.jsx
-│   │   │   ├── 📄 SignIn.jsx
-│   │   │   ├── 📄 SignUp.jsx
-│   │   │   └── 📄 index.jsx
-│   │   ├── 📄 App.js
-│   │   ├── 📄 App.css
-│   │   ├── 📄 index.js
-│   │   └── 📄 index.css
-│   ├── 📄 package.json
-│   ├── 📄 package-lock.json
-│   └── 📄 .gitignore
-│
-├── 📂 backend
-│   ├── 📂 src
-│   │   ├── 📂 main
-│   │   │   ├── 📂 java
-│   │   │   │   └── 📂 com
-│   │   │   │       └── 📂 example
-│   │   │   │           └── 📂 joblisting
-│   │   │   │               ├── 📂 controller
-│   │   │   │               │   └── 📄 PostController.java
-│   │   │   │               ├── 📂 model
-│   │   │   │               │   └── 📄 Post.java
-│   │   │   │               ├── 📂 repository
-│   │   │   │               │   ├── 📄 PostRepository.java
-│   │   │   │               │   ├── 📄 SearchRepository.java
-│   │   │   │               │   └── 📄 SearchRepositoryImpl.java
-│   │   │   │               └── 📄 JoblistingApplication.java
-│   │   │   └── 📂 resources
-│   │   │       ├── 📂 static
-│   │   │       ├── 📂 templates
-│   │   │       └── 📄 application.properties
-│   │   └── 📂 test
-│   ├── 📄 pom.xml
-│   ├── 📄 mvnw
-│   ├── 📄 mvnw.cmd
-│   └── 📄 .gitignore
-│
-└── 📄 README.md
+Directory structure:
+└── hariharans24-jobportal-springboot-react/
+    ├── README.md
+    ├── data.json
+    ├── LICENSE
+    ├── backend/
+    │   ├── HELP.md
+    │   ├── mvnw
+    │   ├── mvnw.cmd
+    │   ├── pom.xml
+    │   ├── src/
+    │   │   ├── main/
+    │   │   │   ├── java/
+    │   │   │   │   └── com/
+    │   │   │   │       └── example/
+    │   │   │   │           └── joblisting/
+    │   │   │   │               ├── JoblistingApplication.java
+    │   │   │   │               ├── controller/
+    │   │   │   │               │   └── PostController.java
+    │   │   │   │               ├── model/
+    │   │   │   │               │   └── Post.java
+    │   │   │   │               └── repository/
+    │   │   │   │                   ├── PostRepository.java
+    │   │   │   │                   ├── SearchRepository.java
+    │   │   │   │                   └── SearchRepositoryImpl.java
+    │   │   │   └── resources/
+    │   │   │       └── application.properties
+    │   │   └── test/
+    │   │       └── java/
+    │   │           └── com/
+    │   │               └── example/
+    │   │                   └── joblisting/
+    │   │                       └── JoblistingApplicationTests.java
+    │   └── target/
+    │       └── classes/
+    │           ├── application.properties
+    │           └── com/
+    │               └── example/
+    │                   └── joblisting/
+    │                       ├── controller/
+    │                       ├── model/
+    │                       └── repository/
+    └── frontend/
+        ├── README.md
+        ├── package-lock.json
+        ├── package.json
+        ├── public/
+        │   ├── index.html
+        │   ├── manifest.json
+        │   └── robots.txt
+        └── src/
+            ├── App.css
+            ├── App.js
+            ├── index.css
+            ├── index.js
+            └── pages/
+                ├── AboutUs.jsx
+                ├── Contact.jsx
+                ├── Create.jsx
+                ├── Dashboard.jsx
+                ├── Feed.jsx
+                ├── Home.jsx
+                ├── index.jsx
+                ├── SignIn.jsx
+                └── SignUp.jsx
 ```
 
 ## 🚀 Features
